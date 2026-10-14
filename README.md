@@ -17,8 +17,8 @@ En una cafetería, lo que se produce a la mañana y no se vende a la noche se ti
 
 | | Regla manual | Modelo | Mejora |
 |---|---:|---:|---:|
-| Error de pronóstico (WAPE) | 31,3% | **27,5%** | −3,8 pp |
-| Merma de productos frescos (sep–dic) | 40.323 u. | **29.691 u.** | **−26%** |
+| Error de pronóstico | 31,3% | **27,5%** | −3,8 pp |
+| Merma de productos frescos | 40.323 u. | **29.691 u.** | **−26%** |
 | Nivel de servicio | 90,5% | 90,5% | igual |
 | Ahorro estimado en costo de mercadería | | | **≈ $1,47 M ARS / mes** |
 
