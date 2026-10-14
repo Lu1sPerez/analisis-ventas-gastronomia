@@ -1,0 +1,13 @@
+producto,categoria,precio_lista,costo_unitario,vida_util_dias,perecedero
+Café con leche,Bebida caliente,3200,900,0,0
+Té en hebras,Bebida caliente,2900,600,0,0
+Chocolate caliente,Bebida caliente,3600,1100,0,0
+Limonada,Bebida fría,3400,800,1,1
+Té helado,Bebida fría,3300,700,1,1
+Medialuna,Panadería,900,280,1,1
+Scon,Panadería,1100,350,2,1
+Budín,Pastelería,2600,900,3,1
+Cheesecake,Pastelería,4800,1700,2,1
+Tostado jamón y queso,Salado,5200,1900,1,1
+Wrap de pollo,Salado,6400,2500,1,1
+Ensalada bowl,Salado,7200,2800,1,1

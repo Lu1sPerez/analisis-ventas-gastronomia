@@ -1,0 +1,17 @@
+{
+  "periodo_test": "2024-09-01 a 2024-12-31",
+  "productos_simulados": [
+    "Limonada",
+    "Té helado",
+    "Medialuna",
+    "Tostado jamón y queso",
+    "Wrap de pollo",
+    "Ensalada bowl"
+  ],
+  "nivel_servicio_%": 90.5,
+  "merma_manual_unidades": 40323,
+  "merma_modelo_unidades": 29691,
+  "reduccion_merma_%": 26.4,
+  "ahorro_costo_mensual_ARS": 1474101,
+  "mejora_WAPE_pp": 3.8
+}
